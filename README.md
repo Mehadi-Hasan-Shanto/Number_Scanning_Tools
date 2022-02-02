@@ -3,8 +3,24 @@
 Screenshot
 ![IMG_20220202_185005](https://user-images.githubusercontent.com/87250241/152159001-cab753df-b79c-43e5-94c4-8693815aab80.jpg)
 
+# command
+pkg update -y && pkg upgarde
 
+$ pkg install python
 
+$ pkg install python2
+
+$ pip2 install requests
+
+$ pip2 install mechanize
+
+$pkg install git
+
+$ git clone https://github.com/Mehadi-Hasan-Shanto/Number_Scanning_Tools.git
+
+$ cd Number_Scanning_Tools
+
+$ python SHANTO.py (choose your number)
 
 
 
